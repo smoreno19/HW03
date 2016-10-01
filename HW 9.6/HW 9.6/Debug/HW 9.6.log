@@ -1,0 +1,3 @@
+﻿  Source.cpp
+d:\hw.3\hw 9.6\hw 9.6\source.cpp(16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  HW 9.6.vcxproj -> D:\HW.3\HW 9.6\Debug\HW 9.6.exe

@@ -1,0 +1,4 @@
+﻿  Source.cpp
+d:\hw.3\hw 10.10\hw 10.10\hw 10.10\source.cpp(58): warning C4804: '%': unsafe use of type 'bool' in operation
+d:\hw.3\hw 10.10\hw 10.10\hw 10.10\source.cpp(58): warning C4724: potential mod by 0
+  HW 10.10.vcxproj -> D:\HW.3\HW 10.10\HW 10.10\Debug\HW 10.10.exe
